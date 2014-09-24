@@ -1,9 +1,9 @@
 {
-	  "name": "groupdocs/groupdocs-java-viewer",
+	  "name": "groupdocs/groupdocs-java-document-viewer",
 	  "description": "Display PDF, Microsoft Office and over 50 other types of documents on your SilverStripe website with the GroupDocs.Viewer for Java library.",
 	  "type": "silverstripe-module",
-	  "homepage": "http://github.com/groupdocs/silverstripe-groupdocs-viewer-java",
-	  "keywords": ["silverstripe", "java document viewer"],
+	  "homepage": "http://groupdocs.com/java/document-viewer-library",
+	  "keywords": ["silverstripe", "groupdocs", "document viewer", "java document viewer", "pdf", "word", "excel", "powepoint"],
 	  "license": "BSD-3-Clause",
 	  "authors": [
 	    {"name": "Marketplace Team","email": "support@groupdocs.com"}
