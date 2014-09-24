@@ -1,0 +1,16 @@
+{
+	  "name": "groupdocs/groupdocs-java-viewer",
+	  "description": "GroupDocs.Viewer for Java is a universal document viewer Java library that supports over 50 types of documents, including PDF, Word, Excel, PowerPoint, Visio, AutoCAD, etc. This add-on lets SilverStripe developers seamlessly integrate GroupDocs.Viewer for Java into their websites.",
+	  "type": "silverstripe-module",
+	  "homepage": "http://github.com/groupdocs/silverstripe-groupdocs-viewer-java",
+	  "keywords": ["silverstripe", "java document viewer"],
+	  "license": "BSD-3-Clause",
+	  "authors": [
+	    {"name": "Marketplace Team","email": "support@groupdocs.com"}
+	  ],	  
+	  "require": {
+	    "silverstripe/cms": "~3.0",
+	    "silverstripe/framework": "~3.0"
+	  }
+	}	
+		
