@@ -34,6 +34,7 @@ GroupDocs.Viewer for Java is a universal document viewer Java library that suppo
 Please note: this add-on doesn’t install the library itself - it only helps you to integrate the viewer into SilverStripe CMS. So please be sure to download and install GroupDocs’ <a href="http://groupdocs.com/java/document-viewer-library" target="_blank">Java document viewer library</a> on your server first before proceeding with the add-on.
 
 Once you installed the library, please proceed with the add-on installation by following these steps:
-
-Extract the groupdocs-java-viewer folder to the root folder of your site;
-Start the rebuild process from http://yoursite/dev/build?flush=1
+<ul>
+<li>Extract the groupdocs-java-viewer folder to the root folder of your site;</li>
+<li>Start the rebuild process from http://yoursite/dev/build?flush=1</li>
+</ul>
