@@ -1,7 +1,6 @@
 Universal Java Document Viewer
 ============================
 
-####Universal Java Document Viewer
 GroupDocs.Viewer for Java is a universal document viewer Java library that supports over 50 types of documents, including PDF, Word, Excel, PowerPoint, Visio, AutoCAD, etc. This add-on lets SilverStripe developers seamlessly integrate GroupDocs.Viewer for Java into their websites. Once installed, you can embed and display the following types of documents within your website:
 
 * Portable Document Format: PDF
@@ -37,15 +36,3 @@ Please note: this add-on doesn’t install the library itself - it only helps yo
 
 - Extract groupdocs-java-viewer folder to your site root
 - Start rebuild process from http://yoursite/dev/build?flush=1
-
-###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
-* [View PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/html5-document-viewer)
-* [Download Viewer plugin package here](https://github.com/groupdocs/silverstripe-groupdocs-viewer-java)
-* [Embed DOC, DOCX, PDF Viewer in your SilverStripe CMS website] (http://addons.silverstripe.org/)
-
-
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace).
-
-###ChangeLog
-2013-12-27
-1.  Initial realise
